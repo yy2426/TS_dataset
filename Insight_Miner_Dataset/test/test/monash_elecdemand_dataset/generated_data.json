@@ -1,0 +1,13 @@
+{
+  "monash_elecdemand_dataset_Plain_Monash_0": "The trend initially decreases, then remains stable, increases, plateaus again, and finally decreases.",
+  "monash_elecdemand_dataset_Plain_Monash_1": "The trend initially decreases, then stabilizes, before increasing again and finally accelerating upwards.",
+  "monash_elecdemand_dataset_Plain_Monash_2": "The trend initially decreases, then increases, and finally decreases again.",
+  "monash_elecdemand_dataset_Plain_Monash_3": "The trend initially remains flat, then experiences a slight increase, followed by another increase, then decreases and finally stabilizes.",
+  "monash_elecdemand_dataset_Plain_Monash_4": "The trend in the time-series data shows a stable phase initially, followed by a gradual increase.",
+  "monash_elecdemand_dataset_Plain_Monash_5": "The trend initially remains stable, then decreases, bottoms out, and finally increases again.",
+  "monash_elecdemand_dataset_Plain_Monash_6": "The trend in the data series is initially stable, then gradually decreases.",
+  "monash_elecdemand_dataset_Plain_Monash_7": "The trend initially decreases, then stabilizes, and finally increases.",
+  "monash_elecdemand_dataset_Plain_Monash_8": "The trend initially remains stable, then decreases, hits a low point, and finally increases again.",
+  "monash_elecdemand_dataset_Plain_Monash_9": "The trend initially remains stable, then slightly increases, before decreasing significantly towards the end.",
+  "monash_elecdemand_dataset_Plain_Monash_10": "The trend in the time-series data shows a steady increase over time."
+}

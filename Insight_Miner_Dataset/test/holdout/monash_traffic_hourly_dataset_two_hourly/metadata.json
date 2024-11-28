@@ -1,0 +1,132 @@
+[
+  {
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetraffic_hourly_dataset.tsf",
+    "df_id": "T468",
+    "ts_start": 670,
+    "ts_end": 809,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetraffic_hourly_dataset.tsf",
+    "df_id": "T687",
+    "ts_start": 4437,
+    "ts_end": 4636,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetraffic_hourly_dataset.tsf",
+    "df_id": "T576",
+    "ts_start": 611,
+    "ts_end": 897,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetraffic_hourly_dataset.tsf",
+    "df_id": "T45",
+    "ts_start": 24,
+    "ts_end": 357,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetraffic_hourly_dataset.tsf",
+    "df_id": "T457",
+    "ts_start": 2081,
+    "ts_end": 2248,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetraffic_hourly_dataset.tsf",
+    "df_id": "T699",
+    "ts_start": 3513,
+    "ts_end": 3909,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetraffic_hourly_dataset.tsf",
+    "df_id": "T539",
+    "ts_start": 3566,
+    "ts_end": 3920,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetraffic_hourly_dataset.tsf",
+    "df_id": "T768",
+    "ts_start": 5245,
+    "ts_end": 5628,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetraffic_hourly_dataset.tsf",
+    "df_id": "T122",
+    "ts_start": 359,
+    "ts_end": 601,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetraffic_hourly_dataset.tsf",
+    "df_id": "T411",
+    "ts_start": 2658,
+    "ts_end": 2989,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  }
+]

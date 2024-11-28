@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_bitcoin_dataset_without_missing_values_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_bitcoin_dataset_without_missing_values/monash_bitcoin_dataset_without_missing_values_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivebitcoin_dataset_without_missing_values.tsf",
+    "df_id": "top_100_percent",
+    "ts_start": 1296,
+    "ts_end": 1429,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_bitcoin_dataset_without_missing_values_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_bitcoin_dataset_without_missing_values/monash_bitcoin_dataset_without_missing_values_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivebitcoin_dataset_without_missing_values.tsf",
+    "df_id": "median_transaction_value",
+    "ts_start": 1388,
+    "ts_end": 1555,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_bitcoin_dataset_without_missing_values_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_bitcoin_dataset_without_missing_values/monash_bitcoin_dataset_without_missing_values_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivebitcoin_dataset_without_missing_values.tsf",
+    "df_id": "av_transaction_value",
+    "ts_start": 1111,
+    "ts_end": 1334,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_bitcoin_dataset_without_missing_values_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_bitcoin_dataset_without_missing_values/monash_bitcoin_dataset_without_missing_values_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivebitcoin_dataset_without_missing_values.tsf",
+    "df_id": "block_size",
+    "ts_start": 1698,
+    "ts_end": 2098,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_bitcoin_dataset_without_missing_values_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_bitcoin_dataset_without_missing_values/monash_bitcoin_dataset_without_missing_values_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivebitcoin_dataset_without_missing_values.tsf",
+    "df_id": "fee_reward",
+    "ts_start": 678,
+    "ts_end": 831,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_bitcoin_dataset_without_missing_values_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_bitcoin_dataset_without_missing_values/monash_bitcoin_dataset_without_missing_values_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivebitcoin_dataset_without_missing_values.tsf",
+    "df_id": "av_transaction_value",
+    "ts_start": 959,
+    "ts_end": 1246,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_bitcoin_dataset_without_missing_values_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_bitcoin_dataset_without_missing_values/monash_bitcoin_dataset_without_missing_values_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivebitcoin_dataset_without_missing_values.tsf",
+    "df_id": "hashrate",
+    "ts_start": 390,
+    "ts_end": 617,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_bitcoin_dataset_without_missing_values_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_bitcoin_dataset_without_missing_values/monash_bitcoin_dataset_without_missing_values_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivebitcoin_dataset_without_missing_values.tsf",
+    "df_id": "send_usd",
+    "ts_start": 1352,
+    "ts_end": 1717,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_bitcoin_dataset_without_missing_values_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_bitcoin_dataset_without_missing_values/monash_bitcoin_dataset_without_missing_values_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivebitcoin_dataset_without_missing_values.tsf",
+    "df_id": "median_transaction_size",
+    "ts_start": 1171,
+    "ts_end": 1525,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_bitcoin_dataset_without_missing_values_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_bitcoin_dataset_without_missing_values/monash_bitcoin_dataset_without_missing_values_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivebitcoin_dataset_without_missing_values.tsf",
+    "df_id": "median_transaction_size",
+    "ts_start": 1506,
+    "ts_end": 1798,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_bitcoin_dataset_without_missing_values_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_bitcoin_dataset_without_missing_values/monash_bitcoin_dataset_without_missing_values_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivebitcoin_dataset_without_missing_values.tsf",
+    "df_id": "block_size",
+    "ts_start": 1064,
+    "ts_end": 1355,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  }
+]

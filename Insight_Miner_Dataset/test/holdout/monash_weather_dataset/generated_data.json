@@ -1,0 +1,13 @@
+{
+  "monash_weather_dataset_Plain_Monash_0": "The trend initially remains stable, then decreases to a standstill, before gradually increasing at an accelerating rate.",
+  "monash_weather_dataset_Plain_Monash_1": "The trend initially remains stable, then slightly decreases, before experiencing a steady increase, and finally shows a slight decrease again.",
+  "monash_weather_dataset_Plain_Monash_2": "The trend gradually increases, then plateaus, before steadily decreasing to a stable low point.",
+  "monash_weather_dataset_Plain_Monash_3": "The trend in the time-series data shows a gradual decrease, followed by a period of stability, and then an increase towards the end.",
+  "monash_weather_dataset_Plain_Monash_4": "The trend initially remains flat, then experiences a rise and fall, returns to a flat stage, and finally sees another rise and fall.",
+  "monash_weather_dataset_Plain_Monash_5": "The trend initially increases, then decreases, and finally increases again.",
+  "monash_weather_dataset_Plain_Monash_6": "The trend initially increases, then stabilizes, increases again, decreases, and finally decreases significantly.",
+  "monash_weather_dataset_Plain_Monash_7": "The trend starts stable, then decreases, and finally stabilizes again at a lower level.",
+  "monash_weather_dataset_Plain_Monash_8": "The trend in the data series initially remains flat, then shows a brief spike, returns to flat, and finally shows a gradual increase.",
+  "monash_weather_dataset_Plain_Monash_9": "The trend initially remains relatively stable, then gradually increases, peaks, and finally decreases slightly.",
+  "monash_weather_dataset_Plain_Monash_10": "The trend initially increases, then sharply decreases, followed by a slight increase, a brief decrease, and finally a steady increase."
+}

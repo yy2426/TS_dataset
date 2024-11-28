@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_saugeenday_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_saugeenday_dataset/monash_saugeenday_dataset_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesaugeenday_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 15291,
+    "ts_end": 15564,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_saugeenday_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_saugeenday_dataset/monash_saugeenday_dataset_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesaugeenday_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 13940,
+    "ts_end": 14105,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_saugeenday_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_saugeenday_dataset/monash_saugeenday_dataset_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesaugeenday_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 7939,
+    "ts_end": 8324,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_saugeenday_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_saugeenday_dataset/monash_saugeenday_dataset_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesaugeenday_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 129,
+    "ts_end": 300,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_saugeenday_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_saugeenday_dataset/monash_saugeenday_dataset_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesaugeenday_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 8378,
+    "ts_end": 8729,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_saugeenday_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_saugeenday_dataset/monash_saugeenday_dataset_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesaugeenday_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 10849,
+    "ts_end": 11176,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_saugeenday_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_saugeenday_dataset/monash_saugeenday_dataset_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesaugeenday_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 12464,
+    "ts_end": 12844,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_saugeenday_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_saugeenday_dataset/monash_saugeenday_dataset_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesaugeenday_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 14600,
+    "ts_end": 14739,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_saugeenday_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_saugeenday_dataset/monash_saugeenday_dataset_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesaugeenday_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 10083,
+    "ts_end": 10294,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_saugeenday_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_saugeenday_dataset/monash_saugeenday_dataset_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesaugeenday_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 3064,
+    "ts_end": 3355,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_saugeenday_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_saugeenday_dataset/monash_saugeenday_dataset_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesaugeenday_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 3011,
+    "ts_end": 3188,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  }
+]

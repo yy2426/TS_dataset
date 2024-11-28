@@ -1,0 +1,132 @@
+[
+  {
+    "id": "monash_elecdemand_dataset_two_hourly_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_elecdemand_dataset_two_hourly/monash_elecdemand_dataset_two_hourly_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelecdemand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 2698,
+    "ts_end": 2822,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_elecdemand_dataset_two_hourly_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_elecdemand_dataset_two_hourly/monash_elecdemand_dataset_two_hourly_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelecdemand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 1978,
+    "ts_end": 2346,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_elecdemand_dataset_two_hourly_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_elecdemand_dataset_two_hourly/monash_elecdemand_dataset_two_hourly_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelecdemand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 1275,
+    "ts_end": 1708,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_elecdemand_dataset_two_hourly_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_elecdemand_dataset_two_hourly/monash_elecdemand_dataset_two_hourly_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelecdemand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 376,
+    "ts_end": 817,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_elecdemand_dataset_two_hourly_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_elecdemand_dataset_two_hourly/monash_elecdemand_dataset_two_hourly_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelecdemand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 1539,
+    "ts_end": 1879,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_elecdemand_dataset_two_hourly_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_elecdemand_dataset_two_hourly/monash_elecdemand_dataset_two_hourly_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelecdemand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 1639,
+    "ts_end": 1948,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_elecdemand_dataset_two_hourly_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_elecdemand_dataset_two_hourly/monash_elecdemand_dataset_two_hourly_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelecdemand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 2776,
+    "ts_end": 3058,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_elecdemand_dataset_two_hourly_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_elecdemand_dataset_two_hourly/monash_elecdemand_dataset_two_hourly_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelecdemand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 1628,
+    "ts_end": 1794,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_elecdemand_dataset_two_hourly_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_elecdemand_dataset_two_hourly/monash_elecdemand_dataset_two_hourly_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelecdemand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 2782,
+    "ts_end": 3023,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  },
+  {
+    "id": "monash_elecdemand_dataset_two_hourly_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_elecdemand_dataset_two_hourly/monash_elecdemand_dataset_two_hourly_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelecdemand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 977,
+    "ts_end": 1395,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "two_hourly"
+  }
+]

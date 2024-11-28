@@ -1,0 +1,13 @@
+{
+  "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_0": "The trend initially increases, reaches a peak, then decreases to a low point, before slightly increasing again.",
+  "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_1": "The trend initially shows a rise, then a decline, followed by another rise, a sharp decline, a rise again, and finally a decline.",
+  "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_2": "The trend initially remains flat, then gradually increases, and finally accelerates upwards.",
+  "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_3": "The trend initially decreases, then stabilizes, before increasing again and finally decreasing once more.",
+  "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_4": "The trend initially decreases, then stabilizes at a low level, before gradually increasing to a higher level.",
+  "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_5": "The trend initially decreases, then stabilizes, followed by a decrease, a brief increase, another decrease, and finally an increase.",
+  "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_6": "The trend of the time-series data is constant throughout.",
+  "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_7": "The trend initially increases, then plateaus, before increasing sharply, and finally decreases towards the end.",
+  "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_8": "The trend initially remains relatively stable, then experiences a significant increase, followed by a sharp decrease, a brief rise, and finally a gradual decline.",
+  "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_9": "The trend initially remains stable, then experiences a sharp increase, followed by a significant decrease, and finally stabilizes again with a slight increase towards the end.",
+  "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_10": "The trend initially shows a slight increase, then a significant decrease, followed by a moderate increase, another significant decrease, and finally a slight increase."
+}

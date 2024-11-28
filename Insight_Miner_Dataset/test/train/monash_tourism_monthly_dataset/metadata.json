@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_tourism_monthly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_tourism_monthly_dataset/monash_tourism_monthly_dataset_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetourism_monthly_dataset.tsf",
+    "df_id": "T252",
+    "ts_start": 22,
+    "ts_end": 143,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_tourism_monthly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_tourism_monthly_dataset/monash_tourism_monthly_dataset_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetourism_monthly_dataset.tsf",
+    "df_id": "T320",
+    "ts_start": 10,
+    "ts_end": 159,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_tourism_monthly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_tourism_monthly_dataset/monash_tourism_monthly_dataset_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetourism_monthly_dataset.tsf",
+    "df_id": "T127",
+    "ts_start": 0,
+    "ts_end": 126,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_tourism_monthly_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_tourism_monthly_dataset/monash_tourism_monthly_dataset_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetourism_monthly_dataset.tsf",
+    "df_id": "T254",
+    "ts_start": 0,
+    "ts_end": 222,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_tourism_monthly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_tourism_monthly_dataset/monash_tourism_monthly_dataset_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetourism_monthly_dataset.tsf",
+    "df_id": "T298",
+    "ts_start": 3,
+    "ts_end": 233,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_tourism_monthly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_tourism_monthly_dataset/monash_tourism_monthly_dataset_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetourism_monthly_dataset.tsf",
+    "df_id": "T24",
+    "ts_start": 5,
+    "ts_end": 207,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_tourism_monthly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_tourism_monthly_dataset/monash_tourism_monthly_dataset_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetourism_monthly_dataset.tsf",
+    "df_id": "T107",
+    "ts_start": 61,
+    "ts_end": 205,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_tourism_monthly_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_tourism_monthly_dataset/monash_tourism_monthly_dataset_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetourism_monthly_dataset.tsf",
+    "df_id": "T186",
+    "ts_start": 0,
+    "ts_end": 226,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_tourism_monthly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_tourism_monthly_dataset/monash_tourism_monthly_dataset_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetourism_monthly_dataset.tsf",
+    "df_id": "T245",
+    "ts_start": 6,
+    "ts_end": 234,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_tourism_monthly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_tourism_monthly_dataset/monash_tourism_monthly_dataset_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetourism_monthly_dataset.tsf",
+    "df_id": "T173",
+    "ts_start": 4,
+    "ts_end": 129,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_tourism_monthly_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_tourism_monthly_dataset/monash_tourism_monthly_dataset_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetourism_monthly_dataset.tsf",
+    "df_id": "T73",
+    "ts_start": 62,
+    "ts_end": 219,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  }
+]

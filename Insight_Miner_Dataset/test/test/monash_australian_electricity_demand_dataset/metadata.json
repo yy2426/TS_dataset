@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_australian_electricity_demand_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_australian_electricity_demand_dataset/monash_australian_electricity_demand_dataset_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveaustralian_electricity_demand_dataset.tsf",
+    "df_id": "T2",
+    "ts_start": 205767,
+    "ts_end": 205893,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_australian_electricity_demand_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_australian_electricity_demand_dataset/monash_australian_electricity_demand_dataset_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveaustralian_electricity_demand_dataset.tsf",
+    "df_id": "T4",
+    "ts_start": 176333,
+    "ts_end": 176661,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_australian_electricity_demand_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_australian_electricity_demand_dataset/monash_australian_electricity_demand_dataset_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveaustralian_electricity_demand_dataset.tsf",
+    "df_id": "T5",
+    "ts_start": 185197,
+    "ts_end": 185480,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_australian_electricity_demand_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_australian_electricity_demand_dataset/monash_australian_electricity_demand_dataset_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveaustralian_electricity_demand_dataset.tsf",
+    "df_id": "T4",
+    "ts_start": 199772,
+    "ts_end": 199941,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_australian_electricity_demand_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_australian_electricity_demand_dataset/monash_australian_electricity_demand_dataset_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveaustralian_electricity_demand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 228294,
+    "ts_end": 228511,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_australian_electricity_demand_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_australian_electricity_demand_dataset/monash_australian_electricity_demand_dataset_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveaustralian_electricity_demand_dataset.tsf",
+    "df_id": "T3",
+    "ts_start": 226043,
+    "ts_end": 226208,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_australian_electricity_demand_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_australian_electricity_demand_dataset/monash_australian_electricity_demand_dataset_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveaustralian_electricity_demand_dataset.tsf",
+    "df_id": "T2",
+    "ts_start": 181323,
+    "ts_end": 181499,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_australian_electricity_demand_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_australian_electricity_demand_dataset/monash_australian_electricity_demand_dataset_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveaustralian_electricity_demand_dataset.tsf",
+    "df_id": "T4",
+    "ts_start": 196959,
+    "ts_end": 197104,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_australian_electricity_demand_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_australian_electricity_demand_dataset/monash_australian_electricity_demand_dataset_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveaustralian_electricity_demand_dataset.tsf",
+    "df_id": "T3",
+    "ts_start": 171980,
+    "ts_end": 172346,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_australian_electricity_demand_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_australian_electricity_demand_dataset/monash_australian_electricity_demand_dataset_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveaustralian_electricity_demand_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 219543,
+    "ts_end": 219687,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_australian_electricity_demand_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_australian_electricity_demand_dataset/monash_australian_electricity_demand_dataset_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveaustralian_electricity_demand_dataset.tsf",
+    "df_id": "T3",
+    "ts_start": 170512,
+    "ts_end": 170670,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  }
+]

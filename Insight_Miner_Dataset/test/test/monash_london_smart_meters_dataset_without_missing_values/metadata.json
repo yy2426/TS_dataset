@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_london_smart_meters_dataset_without_missing_values/monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivelondon_smart_meters_dataset_without_missing_values.tsf",
+    "df_id": "T4286",
+    "ts_start": 18860,
+    "ts_end": 19251,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_london_smart_meters_dataset_without_missing_values/monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivelondon_smart_meters_dataset_without_missing_values.tsf",
+    "df_id": "T5527",
+    "ts_start": 20601,
+    "ts_end": 20829,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_london_smart_meters_dataset_without_missing_values/monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivelondon_smart_meters_dataset_without_missing_values.tsf",
+    "df_id": "T4859",
+    "ts_start": 24128,
+    "ts_end": 24485,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_london_smart_meters_dataset_without_missing_values/monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivelondon_smart_meters_dataset_without_missing_values.tsf",
+    "df_id": "T363",
+    "ts_start": 10573,
+    "ts_end": 10741,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_london_smart_meters_dataset_without_missing_values/monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivelondon_smart_meters_dataset_without_missing_values.tsf",
+    "df_id": "T1566",
+    "ts_start": 28201,
+    "ts_end": 28528,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_london_smart_meters_dataset_without_missing_values/monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivelondon_smart_meters_dataset_without_missing_values.tsf",
+    "df_id": "T1537",
+    "ts_start": 29133,
+    "ts_end": 29490,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_london_smart_meters_dataset_without_missing_values/monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivelondon_smart_meters_dataset_without_missing_values.tsf",
+    "df_id": "T1896",
+    "ts_start": 25446,
+    "ts_end": 25601,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_london_smart_meters_dataset_without_missing_values/monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivelondon_smart_meters_dataset_without_missing_values.tsf",
+    "df_id": "T2122",
+    "ts_start": 26354,
+    "ts_end": 26533,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_london_smart_meters_dataset_without_missing_values/monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivelondon_smart_meters_dataset_without_missing_values.tsf",
+    "df_id": "T727",
+    "ts_start": 15779,
+    "ts_end": 16115,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_london_smart_meters_dataset_without_missing_values/monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivelondon_smart_meters_dataset_without_missing_values.tsf",
+    "df_id": "T5435",
+    "ts_start": 32646,
+    "ts_end": 33041,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  },
+  {
+    "id": "monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_london_smart_meters_dataset_without_missing_values/monash_london_smart_meters_dataset_without_missing_values_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivelondon_smart_meters_dataset_without_missing_values.tsf",
+    "df_id": "T1759",
+    "ts_start": 22615,
+    "ts_end": 22838,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "half_hourly"
+  }
+]

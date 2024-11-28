@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_m3_monthly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivem3_monthly_dataset.tsf",
+    "df_id": "T1256",
+    "ts_start": 55,
+    "ts_end": 78,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_m3_monthly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivem3_monthly_dataset.tsf",
+    "df_id": "T282",
+    "ts_start": 89,
+    "ts_end": 126,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_m3_monthly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivem3_monthly_dataset.tsf",
+    "df_id": "T271",
+    "ts_start": 49,
+    "ts_end": 69,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_m3_monthly_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivem3_monthly_dataset.tsf",
+    "df_id": "T1386",
+    "ts_start": 68,
+    "ts_end": 96,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_m3_monthly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivem3_monthly_dataset.tsf",
+    "df_id": "T1237",
+    "ts_start": 94,
+    "ts_end": 134,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_m3_monthly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivem3_monthly_dataset.tsf",
+    "df_id": "T1216",
+    "ts_start": 94,
+    "ts_end": 134,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_m3_monthly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivem3_monthly_dataset.tsf",
+    "df_id": "T378",
+    "ts_start": 89,
+    "ts_end": 126,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_m3_monthly_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivem3_monthly_dataset.tsf",
+    "df_id": "T427",
+    "ts_start": 89,
+    "ts_end": 126,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_m3_monthly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivem3_monthly_dataset.tsf",
+    "df_id": "T808",
+    "ts_start": 101,
+    "ts_end": 144,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_m3_monthly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivem3_monthly_dataset.tsf",
+    "df_id": "T779",
+    "ts_start": 99,
+    "ts_end": 141,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_m3_monthly_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivem3_monthly_dataset.tsf",
+    "df_id": "T1037",
+    "ts_start": 94,
+    "ts_end": 134,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  }
+]

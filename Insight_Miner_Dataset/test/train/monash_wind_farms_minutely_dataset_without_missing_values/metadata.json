@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_wind_farms_minutely_dataset_without_missing_values/monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivewind_farms_minutely_dataset_without_missing_values.tsf",
+    "df_id": "T325",
+    "ts_start": 42081,
+    "ts_end": 42329,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "minutely"
+  },
+  {
+    "id": "monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_wind_farms_minutely_dataset_without_missing_values/monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivewind_farms_minutely_dataset_without_missing_values.tsf",
+    "df_id": "T102",
+    "ts_start": 359011,
+    "ts_end": 359297,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "minutely"
+  },
+  {
+    "id": "monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_wind_farms_minutely_dataset_without_missing_values/monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivewind_farms_minutely_dataset_without_missing_values.tsf",
+    "df_id": "T233",
+    "ts_start": 367755,
+    "ts_end": 367892,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "minutely"
+  },
+  {
+    "id": "monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_wind_farms_minutely_dataset_without_missing_values/monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivewind_farms_minutely_dataset_without_missing_values.tsf",
+    "df_id": "T188",
+    "ts_start": 329568,
+    "ts_end": 329827,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "minutely"
+  },
+  {
+    "id": "monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_wind_farms_minutely_dataset_without_missing_values/monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivewind_farms_minutely_dataset_without_missing_values.tsf",
+    "df_id": "T152",
+    "ts_start": 290161,
+    "ts_end": 290366,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "minutely"
+  },
+  {
+    "id": "monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_wind_farms_minutely_dataset_without_missing_values/monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivewind_farms_minutely_dataset_without_missing_values.tsf",
+    "df_id": "T204",
+    "ts_start": 75344,
+    "ts_end": 75558,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "minutely"
+  },
+  {
+    "id": "monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_wind_farms_minutely_dataset_without_missing_values/monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivewind_farms_minutely_dataset_without_missing_values.tsf",
+    "df_id": "T191",
+    "ts_start": 255058,
+    "ts_end": 255191,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "minutely"
+  },
+  {
+    "id": "monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_wind_farms_minutely_dataset_without_missing_values/monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivewind_farms_minutely_dataset_without_missing_values.tsf",
+    "df_id": "T78",
+    "ts_start": 296391,
+    "ts_end": 296630,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "minutely"
+  },
+  {
+    "id": "monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_wind_farms_minutely_dataset_without_missing_values/monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivewind_farms_minutely_dataset_without_missing_values.tsf",
+    "df_id": "T331",
+    "ts_start": 119177,
+    "ts_end": 119384,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "minutely"
+  },
+  {
+    "id": "monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_wind_farms_minutely_dataset_without_missing_values/monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivewind_farms_minutely_dataset_without_missing_values.tsf",
+    "df_id": "T276",
+    "ts_start": 138748,
+    "ts_end": 138912,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "minutely"
+  },
+  {
+    "id": "monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_wind_farms_minutely_dataset_without_missing_values/monash_wind_farms_minutely_dataset_without_missing_values_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivewind_farms_minutely_dataset_without_missing_values.tsf",
+    "df_id": "T105",
+    "ts_start": 283823,
+    "ts_end": 284221,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "minutely"
+  }
+]

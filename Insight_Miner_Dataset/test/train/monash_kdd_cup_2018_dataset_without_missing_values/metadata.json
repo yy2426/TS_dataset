@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_kdd_cup_2018_dataset_without_missing_values/monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivekdd_cup_2018_dataset_without_missing_values.tsf",
+    "df_id": "T76",
+    "ts_start": 488,
+    "ts_end": 671,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_kdd_cup_2018_dataset_without_missing_values/monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivekdd_cup_2018_dataset_without_missing_values.tsf",
+    "df_id": "T24",
+    "ts_start": 6304,
+    "ts_end": 6652,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_kdd_cup_2018_dataset_without_missing_values/monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivekdd_cup_2018_dataset_without_missing_values.tsf",
+    "df_id": "T177",
+    "ts_start": 6906,
+    "ts_end": 7285,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_kdd_cup_2018_dataset_without_missing_values/monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivekdd_cup_2018_dataset_without_missing_values.tsf",
+    "df_id": "T225",
+    "ts_start": 4033,
+    "ts_end": 4161,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_kdd_cup_2018_dataset_without_missing_values/monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivekdd_cup_2018_dataset_without_missing_values.tsf",
+    "df_id": "T71",
+    "ts_start": 4753,
+    "ts_end": 4960,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_kdd_cup_2018_dataset_without_missing_values/monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivekdd_cup_2018_dataset_without_missing_values.tsf",
+    "df_id": "T93",
+    "ts_start": 6702,
+    "ts_end": 7068,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_kdd_cup_2018_dataset_without_missing_values/monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivekdd_cup_2018_dataset_without_missing_values.tsf",
+    "df_id": "T15",
+    "ts_start": 2939,
+    "ts_end": 3285,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_kdd_cup_2018_dataset_without_missing_values/monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivekdd_cup_2018_dataset_without_missing_values.tsf",
+    "df_id": "T42",
+    "ts_start": 4810,
+    "ts_end": 4994,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_kdd_cup_2018_dataset_without_missing_values/monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivekdd_cup_2018_dataset_without_missing_values.tsf",
+    "df_id": "T196",
+    "ts_start": 2617,
+    "ts_end": 2982,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_kdd_cup_2018_dataset_without_missing_values/monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivekdd_cup_2018_dataset_without_missing_values.tsf",
+    "df_id": "T224",
+    "ts_start": 709,
+    "ts_end": 962,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_kdd_cup_2018_dataset_without_missing_values/monash_kdd_cup_2018_dataset_without_missing_values_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivekdd_cup_2018_dataset_without_missing_values.tsf",
+    "df_id": "T175",
+    "ts_start": 4078,
+    "ts_end": 4224,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  }
+]

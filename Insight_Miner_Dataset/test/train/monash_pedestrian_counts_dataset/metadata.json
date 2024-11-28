@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_pedestrian_counts_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_pedestrian_counts_dataset/monash_pedestrian_counts_dataset_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivepedestrian_counts_dataset.tsf",
+    "df_id": "T11",
+    "ts_start": 18634,
+    "ts_end": 18973,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_pedestrian_counts_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_pedestrian_counts_dataset/monash_pedestrian_counts_dataset_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivepedestrian_counts_dataset.tsf",
+    "df_id": "T42",
+    "ts_start": 26353,
+    "ts_end": 26560,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_pedestrian_counts_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_pedestrian_counts_dataset/monash_pedestrian_counts_dataset_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivepedestrian_counts_dataset.tsf",
+    "df_id": "T14",
+    "ts_start": 39279,
+    "ts_end": 39489,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_pedestrian_counts_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_pedestrian_counts_dataset/monash_pedestrian_counts_dataset_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivepedestrian_counts_dataset.tsf",
+    "df_id": "T28",
+    "ts_start": 19955,
+    "ts_end": 20104,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_pedestrian_counts_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_pedestrian_counts_dataset/monash_pedestrian_counts_dataset_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivepedestrian_counts_dataset.tsf",
+    "df_id": "T49",
+    "ts_start": 12168,
+    "ts_end": 12361,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_pedestrian_counts_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_pedestrian_counts_dataset/monash_pedestrian_counts_dataset_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivepedestrian_counts_dataset.tsf",
+    "df_id": "T54",
+    "ts_start": 3061,
+    "ts_end": 3182,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_pedestrian_counts_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_pedestrian_counts_dataset/monash_pedestrian_counts_dataset_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivepedestrian_counts_dataset.tsf",
+    "df_id": "T59",
+    "ts_start": 1475,
+    "ts_end": 1643,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_pedestrian_counts_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_pedestrian_counts_dataset/monash_pedestrian_counts_dataset_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivepedestrian_counts_dataset.tsf",
+    "df_id": "T44",
+    "ts_start": 10827,
+    "ts_end": 11162,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_pedestrian_counts_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_pedestrian_counts_dataset/monash_pedestrian_counts_dataset_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivepedestrian_counts_dataset.tsf",
+    "df_id": "T37",
+    "ts_start": 14749,
+    "ts_end": 15081,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_pedestrian_counts_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_pedestrian_counts_dataset/monash_pedestrian_counts_dataset_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivepedestrian_counts_dataset.tsf",
+    "df_id": "T64",
+    "ts_start": 349,
+    "ts_end": 728,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  },
+  {
+    "id": "monash_pedestrian_counts_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_pedestrian_counts_dataset/monash_pedestrian_counts_dataset_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivepedestrian_counts_dataset.tsf",
+    "df_id": "T2",
+    "ts_start": 8080,
+    "ts_end": 8294,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "hourly"
+  }
+]

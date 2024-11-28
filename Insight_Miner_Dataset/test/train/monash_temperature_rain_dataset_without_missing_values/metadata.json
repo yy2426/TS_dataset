@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_temperature_rain_dataset_without_missing_values_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_temperature_rain_dataset_without_missing_values/monash_temperature_rain_dataset_without_missing_values_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetemperature_rain_dataset_without_missing_values.tsf",
+    "df_id": "T25627",
+    "ts_start": 7,
+    "ts_end": 352,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_temperature_rain_dataset_without_missing_values_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_temperature_rain_dataset_without_missing_values/monash_temperature_rain_dataset_without_missing_values_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetemperature_rain_dataset_without_missing_values.tsf",
+    "df_id": "T4854",
+    "ts_start": 6,
+    "ts_end": 279,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_temperature_rain_dataset_without_missing_values_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_temperature_rain_dataset_without_missing_values/monash_temperature_rain_dataset_without_missing_values_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetemperature_rain_dataset_without_missing_values.tsf",
+    "df_id": "T12522",
+    "ts_start": 255,
+    "ts_end": 413,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_temperature_rain_dataset_without_missing_values_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_temperature_rain_dataset_without_missing_values/monash_temperature_rain_dataset_without_missing_values_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetemperature_rain_dataset_without_missing_values.tsf",
+    "df_id": "T16795",
+    "ts_start": 121,
+    "ts_end": 457,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_temperature_rain_dataset_without_missing_values_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_temperature_rain_dataset_without_missing_values/monash_temperature_rain_dataset_without_missing_values_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetemperature_rain_dataset_without_missing_values.tsf",
+    "df_id": "T26793",
+    "ts_start": 64,
+    "ts_end": 186,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_temperature_rain_dataset_without_missing_values_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_temperature_rain_dataset_without_missing_values/monash_temperature_rain_dataset_without_missing_values_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetemperature_rain_dataset_without_missing_values.tsf",
+    "df_id": "T1262",
+    "ts_start": 3,
+    "ts_end": 232,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_temperature_rain_dataset_without_missing_values_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_temperature_rain_dataset_without_missing_values/monash_temperature_rain_dataset_without_missing_values_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetemperature_rain_dataset_without_missing_values.tsf",
+    "df_id": "T28961",
+    "ts_start": 208,
+    "ts_end": 392,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_temperature_rain_dataset_without_missing_values_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_temperature_rain_dataset_without_missing_values/monash_temperature_rain_dataset_without_missing_values_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetemperature_rain_dataset_without_missing_values.tsf",
+    "df_id": "T10307",
+    "ts_start": 271,
+    "ts_end": 433,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_temperature_rain_dataset_without_missing_values_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_temperature_rain_dataset_without_missing_values/monash_temperature_rain_dataset_without_missing_values_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetemperature_rain_dataset_without_missing_values.tsf",
+    "df_id": "T12174",
+    "ts_start": 147,
+    "ts_end": 444,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_temperature_rain_dataset_without_missing_values_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_temperature_rain_dataset_without_missing_values/monash_temperature_rain_dataset_without_missing_values_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetemperature_rain_dataset_without_missing_values.tsf",
+    "df_id": "T5290",
+    "ts_start": 88,
+    "ts_end": 250,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_temperature_rain_dataset_without_missing_values_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_temperature_rain_dataset_without_missing_values/monash_temperature_rain_dataset_without_missing_values_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivetemperature_rain_dataset_without_missing_values.tsf",
+    "df_id": "T19955",
+    "ts_start": 111,
+    "ts_end": 240,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  }
+]

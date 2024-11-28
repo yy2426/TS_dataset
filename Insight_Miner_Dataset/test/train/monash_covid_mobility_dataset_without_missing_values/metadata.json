@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_covid_mobility_dataset_without_missing_values_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_covid_mobility_dataset_without_missing_values/monash_covid_mobility_dataset_without_missing_values_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivecovid_mobility_dataset_without_missing_values.tsf",
+    "df_id": "T301",
+    "ts_start": 6,
+    "ts_end": 244,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_covid_mobility_dataset_without_missing_values_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_covid_mobility_dataset_without_missing_values/monash_covid_mobility_dataset_without_missing_values_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivecovid_mobility_dataset_without_missing_values.tsf",
+    "df_id": "T308",
+    "ts_start": 72,
+    "ts_end": 220,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_covid_mobility_dataset_without_missing_values_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_covid_mobility_dataset_without_missing_values/monash_covid_mobility_dataset_without_missing_values_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivecovid_mobility_dataset_without_missing_values.tsf",
+    "df_id": "T505",
+    "ts_start": 105,
+    "ts_end": 285,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_covid_mobility_dataset_without_missing_values_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_covid_mobility_dataset_without_missing_values/monash_covid_mobility_dataset_without_missing_values_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivecovid_mobility_dataset_without_missing_values.tsf",
+    "df_id": "T404",
+    "ts_start": 61,
+    "ts_end": 186,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_covid_mobility_dataset_without_missing_values_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_covid_mobility_dataset_without_missing_values/monash_covid_mobility_dataset_without_missing_values_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivecovid_mobility_dataset_without_missing_values.tsf",
+    "df_id": "T63",
+    "ts_start": 124,
+    "ts_end": 258,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_covid_mobility_dataset_without_missing_values_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_covid_mobility_dataset_without_missing_values/monash_covid_mobility_dataset_without_missing_values_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivecovid_mobility_dataset_without_missing_values.tsf",
+    "df_id": "T418",
+    "ts_start": 39,
+    "ts_end": 221,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_covid_mobility_dataset_without_missing_values_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_covid_mobility_dataset_without_missing_values/monash_covid_mobility_dataset_without_missing_values_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivecovid_mobility_dataset_without_missing_values.tsf",
+    "df_id": "T72",
+    "ts_start": 31,
+    "ts_end": 190,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_covid_mobility_dataset_without_missing_values_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_covid_mobility_dataset_without_missing_values/monash_covid_mobility_dataset_without_missing_values_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivecovid_mobility_dataset_without_missing_values.tsf",
+    "df_id": "T192",
+    "ts_start": 34,
+    "ts_end": 264,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_covid_mobility_dataset_without_missing_values_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_covid_mobility_dataset_without_missing_values/monash_covid_mobility_dataset_without_missing_values_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivecovid_mobility_dataset_without_missing_values.tsf",
+    "df_id": "T25",
+    "ts_start": 75,
+    "ts_end": 255,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_covid_mobility_dataset_without_missing_values_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_covid_mobility_dataset_without_missing_values/monash_covid_mobility_dataset_without_missing_values_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivecovid_mobility_dataset_without_missing_values.tsf",
+    "df_id": "T135",
+    "ts_start": 105,
+    "ts_end": 286,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_covid_mobility_dataset_without_missing_values_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_covid_mobility_dataset_without_missing_values/monash_covid_mobility_dataset_without_missing_values_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivecovid_mobility_dataset_without_missing_values.tsf",
+    "df_id": "T88",
+    "ts_start": 17,
+    "ts_end": 217,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  }
+]

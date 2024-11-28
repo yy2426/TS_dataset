@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_sunspot_dataset_without_missing_values_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_sunspot_dataset_without_missing_values/monash_sunspot_dataset_without_missing_values_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesunspot_dataset_without_missing_values.tsf",
+    "df_id": "T1",
+    "ts_start": 45191,
+    "ts_end": 45557,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_sunspot_dataset_without_missing_values_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_sunspot_dataset_without_missing_values/monash_sunspot_dataset_without_missing_values_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesunspot_dataset_without_missing_values.tsf",
+    "df_id": "T1",
+    "ts_start": 16121,
+    "ts_end": 16470,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_sunspot_dataset_without_missing_values_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_sunspot_dataset_without_missing_values/monash_sunspot_dataset_without_missing_values_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesunspot_dataset_without_missing_values.tsf",
+    "df_id": "T1",
+    "ts_start": 28421,
+    "ts_end": 28728,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_sunspot_dataset_without_missing_values_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_sunspot_dataset_without_missing_values/monash_sunspot_dataset_without_missing_values_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesunspot_dataset_without_missing_values.tsf",
+    "df_id": "T1",
+    "ts_start": 13879,
+    "ts_end": 14205,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_sunspot_dataset_without_missing_values_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_sunspot_dataset_without_missing_values/monash_sunspot_dataset_without_missing_values_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesunspot_dataset_without_missing_values.tsf",
+    "df_id": "T1",
+    "ts_start": 49555,
+    "ts_end": 49750,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_sunspot_dataset_without_missing_values_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_sunspot_dataset_without_missing_values/monash_sunspot_dataset_without_missing_values_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesunspot_dataset_without_missing_values.tsf",
+    "df_id": "T1",
+    "ts_start": 15193,
+    "ts_end": 15425,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_sunspot_dataset_without_missing_values_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_sunspot_dataset_without_missing_values/monash_sunspot_dataset_without_missing_values_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesunspot_dataset_without_missing_values.tsf",
+    "df_id": "T1",
+    "ts_start": 45594,
+    "ts_end": 45778,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_sunspot_dataset_without_missing_values_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_sunspot_dataset_without_missing_values/monash_sunspot_dataset_without_missing_values_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesunspot_dataset_without_missing_values.tsf",
+    "df_id": "T1",
+    "ts_start": 30483,
+    "ts_end": 30661,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_sunspot_dataset_without_missing_values_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_sunspot_dataset_without_missing_values/monash_sunspot_dataset_without_missing_values_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesunspot_dataset_without_missing_values.tsf",
+    "df_id": "T1",
+    "ts_start": 40167,
+    "ts_end": 40391,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_sunspot_dataset_without_missing_values_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_sunspot_dataset_without_missing_values/monash_sunspot_dataset_without_missing_values_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesunspot_dataset_without_missing_values.tsf",
+    "df_id": "T1",
+    "ts_start": 36628,
+    "ts_end": 36907,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  },
+  {
+    "id": "monash_sunspot_dataset_without_missing_values_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_sunspot_dataset_without_missing_values/monash_sunspot_dataset_without_missing_values_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesunspot_dataset_without_missing_values.tsf",
+    "df_id": "T1",
+    "ts_start": 3548,
+    "ts_end": 3766,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "daily"
+  }
+]

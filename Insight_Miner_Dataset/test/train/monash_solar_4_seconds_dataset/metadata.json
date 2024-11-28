@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_solar_4_seconds_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_solar_4_seconds_dataset/monash_solar_4_seconds_dataset_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesolar_4_seconds_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 619069,
+    "ts_end": 619227,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "4_seconds"
+  },
+  {
+    "id": "monash_solar_4_seconds_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_solar_4_seconds_dataset/monash_solar_4_seconds_dataset_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesolar_4_seconds_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 2305390,
+    "ts_end": 2305600,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "4_seconds"
+  },
+  {
+    "id": "monash_solar_4_seconds_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_solar_4_seconds_dataset/monash_solar_4_seconds_dataset_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesolar_4_seconds_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 1332955,
+    "ts_end": 1333213,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "4_seconds"
+  },
+  {
+    "id": "monash_solar_4_seconds_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_solar_4_seconds_dataset/monash_solar_4_seconds_dataset_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesolar_4_seconds_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 163609,
+    "ts_end": 163747,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "4_seconds"
+  },
+  {
+    "id": "monash_solar_4_seconds_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_solar_4_seconds_dataset/monash_solar_4_seconds_dataset_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesolar_4_seconds_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 2445195,
+    "ts_end": 2445582,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "4_seconds"
+  },
+  {
+    "id": "monash_solar_4_seconds_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_solar_4_seconds_dataset/monash_solar_4_seconds_dataset_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesolar_4_seconds_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 3716575,
+    "ts_end": 3716810,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "4_seconds"
+  },
+  {
+    "id": "monash_solar_4_seconds_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_solar_4_seconds_dataset/monash_solar_4_seconds_dataset_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesolar_4_seconds_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 4856027,
+    "ts_end": 4856285,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "4_seconds"
+  },
+  {
+    "id": "monash_solar_4_seconds_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_solar_4_seconds_dataset/monash_solar_4_seconds_dataset_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesolar_4_seconds_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 2914053,
+    "ts_end": 2914349,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "4_seconds"
+  },
+  {
+    "id": "monash_solar_4_seconds_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_solar_4_seconds_dataset/monash_solar_4_seconds_dataset_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesolar_4_seconds_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 1246629,
+    "ts_end": 1246757,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "4_seconds"
+  },
+  {
+    "id": "monash_solar_4_seconds_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_solar_4_seconds_dataset/monash_solar_4_seconds_dataset_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesolar_4_seconds_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 1409152,
+    "ts_end": 1409458,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "4_seconds"
+  },
+  {
+    "id": "monash_solar_4_seconds_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/train/monash_solar_4_seconds_dataset/monash_solar_4_seconds_dataset_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivesolar_4_seconds_dataset.tsf",
+    "df_id": "T1",
+    "ts_start": 1065290,
+    "ts_end": 1065619,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "4_seconds"
+  }
+]

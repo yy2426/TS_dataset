@@ -1,0 +1,13 @@
+{
+  "monash_bitcoin_dataset_without_missing_values_Plain_Monash_0": "The trend initially remains relatively stable, then decreases significantly, hits a low point, and finally shows a slight increase towards the end.",
+  "monash_bitcoin_dataset_without_missing_values_Plain_Monash_1": "The trend initially remains relatively stable, then gradually decreases, experiences a brief increase, before decreasing again more steeply.",
+  "monash_bitcoin_dataset_without_missing_values_Plain_Monash_2": "The trend initially remains stable, then gradually increases, reaches a peak, and finally decreases.",
+  "monash_bitcoin_dataset_without_missing_values_Plain_Monash_3": "The trend initially decreases, then increases, decreases again, and finally stabilizes.",
+  "monash_bitcoin_dataset_without_missing_values_Plain_Monash_4": "The trend initially remains flat, then gradually increases, decreases slightly, and finally increases again at a faster rate.",
+  "monash_bitcoin_dataset_without_missing_values_Plain_Monash_5": "The trend gradually increases over time.",
+  "monash_bitcoin_dataset_without_missing_values_Plain_Monash_6": "The trend initially remains flat, then gradually increases, plateaus briefly, decreases slightly, and finally increases again.",
+  "monash_bitcoin_dataset_without_missing_values_Plain_Monash_7": "The trend initially remains stable, then increases, peaks, and gradually decreases to a steady state.",
+  "monash_bitcoin_dataset_without_missing_values_Plain_Monash_8": "The trend initially shows a slight decrease, then a more significant drop, followed by a period of stability.",
+  "monash_bitcoin_dataset_without_missing_values_Plain_Monash_9": "The time-series data exhibits a constant trend throughout.",
+  "monash_bitcoin_dataset_without_missing_values_Plain_Monash_10": "The trend initially decreases, then briefly increases before decreasing again, and finally stabilizes towards the end."
+}

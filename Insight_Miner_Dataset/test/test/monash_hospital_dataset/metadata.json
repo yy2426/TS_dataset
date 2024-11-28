@@ -1,0 +1,145 @@
+[
+  {
+    "id": "monash_hospital_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_hospital_dataset/monash_hospital_dataset_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivehospital_dataset.tsf",
+    "df_id": "T465",
+    "ts_start": 59,
+    "ts_end": 84,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_hospital_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_hospital_dataset/monash_hospital_dataset_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivehospital_dataset.tsf",
+    "df_id": "T634",
+    "ts_start": 59,
+    "ts_end": 84,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_hospital_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_hospital_dataset/monash_hospital_dataset_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivehospital_dataset.tsf",
+    "df_id": "T570",
+    "ts_start": 59,
+    "ts_end": 84,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_hospital_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_hospital_dataset/monash_hospital_dataset_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivehospital_dataset.tsf",
+    "df_id": "T747",
+    "ts_start": 59,
+    "ts_end": 84,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_hospital_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_hospital_dataset/monash_hospital_dataset_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivehospital_dataset.tsf",
+    "df_id": "T258",
+    "ts_start": 59,
+    "ts_end": 84,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_hospital_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_hospital_dataset/monash_hospital_dataset_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivehospital_dataset.tsf",
+    "df_id": "T552",
+    "ts_start": 59,
+    "ts_end": 84,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_hospital_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_hospital_dataset/monash_hospital_dataset_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivehospital_dataset.tsf",
+    "df_id": "T699",
+    "ts_start": 59,
+    "ts_end": 84,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_hospital_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_hospital_dataset/monash_hospital_dataset_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivehospital_dataset.tsf",
+    "df_id": "T28",
+    "ts_start": 59,
+    "ts_end": 84,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_hospital_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_hospital_dataset/monash_hospital_dataset_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivehospital_dataset.tsf",
+    "df_id": "T271",
+    "ts_start": 59,
+    "ts_end": 84,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_hospital_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_hospital_dataset/monash_hospital_dataset_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivehospital_dataset.tsf",
+    "df_id": "T537",
+    "ts_start": 59,
+    "ts_end": 84,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  },
+  {
+    "id": "monash_hospital_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/test/monash_hospital_dataset/monash_hospital_dataset_Plain_Monash_10.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archivehospital_dataset.tsf",
+    "df_id": "T437",
+    "ts_start": 59,
+    "ts_end": 84,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "monthly"
+  }
+]

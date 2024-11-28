@@ -1,0 +1,132 @@
+[
+  {
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_0.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelectricity_hourly_dataset.tsf",
+    "df_id": "T75",
+    "ts_start": 837,
+    "ts_end": 988,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "six_hourly"
+  },
+  {
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_1.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelectricity_hourly_dataset.tsf",
+    "df_id": "T194",
+    "ts_start": 747,
+    "ts_end": 1167,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "six_hourly"
+  },
+  {
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_2.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelectricity_hourly_dataset.tsf",
+    "df_id": "T320",
+    "ts_start": 1811,
+    "ts_end": 2193,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "six_hourly"
+  },
+  {
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_3.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelectricity_hourly_dataset.tsf",
+    "df_id": "T265",
+    "ts_start": 2665,
+    "ts_end": 2908,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "six_hourly"
+  },
+  {
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_4.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelectricity_hourly_dataset.tsf",
+    "df_id": "T246",
+    "ts_start": 2435,
+    "ts_end": 2569,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "six_hourly"
+  },
+  {
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_5.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelectricity_hourly_dataset.tsf",
+    "df_id": "T132",
+    "ts_start": 1724,
+    "ts_end": 2054,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "six_hourly"
+  },
+  {
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_6.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelectricity_hourly_dataset.tsf",
+    "df_id": "T116",
+    "ts_start": 1225,
+    "ts_end": 1638,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "six_hourly"
+  },
+  {
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_7.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelectricity_hourly_dataset.tsf",
+    "df_id": "T25",
+    "ts_start": 329,
+    "ts_end": 618,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "six_hourly"
+  },
+  {
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_8.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelectricity_hourly_dataset.tsf",
+    "df_id": "T29",
+    "ts_start": 501,
+    "ts_end": 917,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "six_hourly"
+  },
+  {
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_9.npy"
+    ],
+    "current_file": "/home/jupyter/all_datasets/monash_archiveelectricity_hourly_dataset.tsf",
+    "df_id": "T137",
+    "ts_start": 463,
+    "ts_end": 632,
+    "num_features": 1,
+    "sampled_cols": 0,
+    "freq": "six_hourly"
+  }
+]

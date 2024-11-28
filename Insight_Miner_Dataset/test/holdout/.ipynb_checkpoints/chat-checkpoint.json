@@ -1,0 +1,2882 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_hourly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_hourly_dataset/monash_m4_hourly_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_hourly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_hourly_dataset/monash_m4_hourly_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_hourly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_hourly_dataset/monash_m4_hourly_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_hourly_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_hourly_dataset/monash_m4_hourly_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_hourly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_hourly_dataset/monash_m4_hourly_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_hourly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_hourly_dataset/monash_m4_hourly_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_hourly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_hourly_dataset/monash_m4_hourly_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_hourly_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_hourly_dataset/monash_m4_hourly_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_hourly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_hourly_dataset/monash_m4_hourly_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_hourly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_hourly_dataset/monash_m4_hourly_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_hourly_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_hourly_dataset/monash_m4_hourly_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_two_hourly_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_two_hourly/monash_traffic_hourly_dataset_two_hourly_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_four_hourly_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_four_hourly/monash_traffic_hourly_dataset_four_hourly_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_four_hourly_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_four_hourly/monash_traffic_hourly_dataset_four_hourly_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_four_hourly_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_four_hourly/monash_traffic_hourly_dataset_four_hourly_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_four_hourly_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_four_hourly/monash_traffic_hourly_dataset_four_hourly_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_four_hourly_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_four_hourly/monash_traffic_hourly_dataset_four_hourly_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_four_hourly_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_four_hourly/monash_traffic_hourly_dataset_four_hourly_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_four_hourly_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_four_hourly/monash_traffic_hourly_dataset_four_hourly_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_four_hourly_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_four_hourly/monash_traffic_hourly_dataset_four_hourly_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_four_hourly_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_four_hourly/monash_traffic_hourly_dataset_four_hourly_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_four_hourly_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset_four_hourly/monash_traffic_hourly_dataset_four_hourly_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_weather_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_weather_dataset/monash_weather_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_weather_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_weather_dataset/monash_weather_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_weather_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_weather_dataset/monash_weather_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_weather_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_weather_dataset/monash_weather_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_weather_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_weather_dataset/monash_weather_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_weather_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_weather_dataset/monash_weather_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_weather_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_weather_dataset/monash_weather_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_weather_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_weather_dataset/monash_weather_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_weather_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_weather_dataset/monash_weather_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_weather_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_weather_dataset/monash_weather_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_weather_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_weather_dataset/monash_weather_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset/monash_traffic_hourly_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset/monash_traffic_hourly_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset/monash_traffic_hourly_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset/monash_traffic_hourly_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset/monash_traffic_hourly_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset/monash_traffic_hourly_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset/monash_traffic_hourly_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset/monash_traffic_hourly_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset/monash_traffic_hourly_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset/monash_traffic_hourly_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_hourly_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_hourly_dataset/monash_traffic_hourly_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_monthly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_monthly_dataset/monash_m4_monthly_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_monthly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_monthly_dataset/monash_m4_monthly_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_monthly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_monthly_dataset/monash_m4_monthly_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_monthly_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_monthly_dataset/monash_m4_monthly_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_monthly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_monthly_dataset/monash_m4_monthly_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_monthly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_monthly_dataset/monash_m4_monthly_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_monthly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_monthly_dataset/monash_m4_monthly_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_monthly_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_monthly_dataset/monash_m4_monthly_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_monthly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_monthly_dataset/monash_m4_monthly_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_monthly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_monthly_dataset/monash_m4_monthly_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_monthly_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_monthly_dataset/monash_m4_monthly_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_weekly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_weekly_dataset/monash_traffic_weekly_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_weekly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_weekly_dataset/monash_traffic_weekly_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_weekly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_weekly_dataset/monash_traffic_weekly_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_weekly_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_weekly_dataset/monash_traffic_weekly_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_weekly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_weekly_dataset/monash_traffic_weekly_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_weekly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_weekly_dataset/monash_traffic_weekly_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_weekly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_weekly_dataset/monash_traffic_weekly_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_weekly_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_weekly_dataset/monash_traffic_weekly_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_weekly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_weekly_dataset/monash_traffic_weekly_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_weekly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_weekly_dataset/monash_traffic_weekly_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_traffic_weekly_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_traffic_weekly_dataset/monash_traffic_weekly_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_monthly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_monthly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_monthly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_monthly_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_monthly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_monthly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_monthly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_monthly_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_monthly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_monthly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_monthly_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_monthly_dataset/monash_m3_monthly_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_weekly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_weekly_dataset/monash_electricity_weekly_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_weekly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_weekly_dataset/monash_electricity_weekly_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_weekly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_weekly_dataset/monash_electricity_weekly_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_weekly_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_weekly_dataset/monash_electricity_weekly_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_weekly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_weekly_dataset/monash_electricity_weekly_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_weekly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_weekly_dataset/monash_electricity_weekly_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_weekly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_weekly_dataset/monash_electricity_weekly_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_weekly_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_weekly_dataset/monash_electricity_weekly_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_weekly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_weekly_dataset/monash_electricity_weekly_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_weekly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_weekly_dataset/monash_electricity_weekly_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_weekly_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_weekly_dataset/monash_electricity_weekly_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_daily_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_daily_dataset/monash_m4_daily_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_daily_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_daily_dataset/monash_m4_daily_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_daily_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_daily_dataset/monash_m4_daily_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_daily_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_daily_dataset/monash_m4_daily_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_daily_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_daily_dataset/monash_m4_daily_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_daily_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_daily_dataset/monash_m4_daily_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_daily_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_daily_dataset/monash_m4_daily_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_daily_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_daily_dataset/monash_m4_daily_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_daily_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_daily_dataset/monash_m4_daily_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_daily_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_daily_dataset/monash_m4_daily_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_daily_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_daily_dataset/monash_m4_daily_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_three_hourly_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_three_hourly/monash_electricity_hourly_dataset_three_hourly_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_three_hourly_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_three_hourly/monash_electricity_hourly_dataset_three_hourly_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_three_hourly_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_three_hourly/monash_electricity_hourly_dataset_three_hourly_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_three_hourly_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_three_hourly/monash_electricity_hourly_dataset_three_hourly_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_three_hourly_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_three_hourly/monash_electricity_hourly_dataset_three_hourly_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_three_hourly_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_three_hourly/monash_electricity_hourly_dataset_three_hourly_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_three_hourly_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_three_hourly/monash_electricity_hourly_dataset_three_hourly_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_three_hourly_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_three_hourly/monash_electricity_hourly_dataset_three_hourly_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_three_hourly_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_three_hourly/monash_electricity_hourly_dataset_three_hourly_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_three_hourly_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_three_hourly/monash_electricity_hourly_dataset_three_hourly_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_quarterly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_quarterly_dataset/monash_m3_quarterly_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_quarterly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_quarterly_dataset/monash_m3_quarterly_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_quarterly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_quarterly_dataset/monash_m3_quarterly_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_quarterly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_quarterly_dataset/monash_m3_quarterly_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_quarterly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_quarterly_dataset/monash_m3_quarterly_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_quarterly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_quarterly_dataset/monash_m3_quarterly_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_quarterly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_quarterly_dataset/monash_m3_quarterly_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_quarterly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_quarterly_dataset/monash_m3_quarterly_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_quarterly_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_quarterly_dataset/monash_m3_quarterly_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_other_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_other_dataset/monash_m3_other_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_other_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_other_dataset/monash_m3_other_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_other_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_other_dataset/monash_m3_other_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_other_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_other_dataset/monash_m3_other_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_other_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_other_dataset/monash_m3_other_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_other_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_other_dataset/monash_m3_other_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_other_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_other_dataset/monash_m3_other_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_other_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_other_dataset/monash_m3_other_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_other_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_other_dataset/monash_m3_other_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_other_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_other_dataset/monash_m3_other_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m3_other_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m3_other_dataset/monash_m3_other_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_six_hourly_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset_six_hourly/monash_electricity_hourly_dataset_six_hourly_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_quarterly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_quarterly_dataset/monash_m4_quarterly_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_quarterly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_quarterly_dataset/monash_m4_quarterly_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_quarterly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_quarterly_dataset/monash_m4_quarterly_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_quarterly_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_quarterly_dataset/monash_m4_quarterly_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_quarterly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_quarterly_dataset/monash_m4_quarterly_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_quarterly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_quarterly_dataset/monash_m4_quarterly_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_quarterly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_quarterly_dataset/monash_m4_quarterly_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_quarterly_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_quarterly_dataset/monash_m4_quarterly_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_quarterly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_quarterly_dataset/monash_m4_quarterly_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_quarterly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_quarterly_dataset/monash_m4_quarterly_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_quarterly_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_quarterly_dataset/monash_m4_quarterly_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_weekly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_weekly_dataset/monash_m4_weekly_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_weekly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_weekly_dataset/monash_m4_weekly_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_weekly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_weekly_dataset/monash_m4_weekly_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_weekly_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_weekly_dataset/monash_m4_weekly_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_weekly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_weekly_dataset/monash_m4_weekly_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_weekly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_weekly_dataset/monash_m4_weekly_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_weekly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_weekly_dataset/monash_m4_weekly_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_weekly_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_weekly_dataset/monash_m4_weekly_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_weekly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_weekly_dataset/monash_m4_weekly_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_weekly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_weekly_dataset/monash_m4_weekly_dataset_Plain_Monash_9.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_m4_weekly_dataset_Plain_Monash_10",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_m4_weekly_dataset/monash_m4_weekly_dataset_Plain_Monash_10.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_Plain_Monash_0",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset/monash_electricity_hourly_dataset_Plain_Monash_0.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_Plain_Monash_1",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset/monash_electricity_hourly_dataset_Plain_Monash_1.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_Plain_Monash_2",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset/monash_electricity_hourly_dataset_Plain_Monash_2.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_Plain_Monash_3",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset/monash_electricity_hourly_dataset_Plain_Monash_3.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_Plain_Monash_4",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset/monash_electricity_hourly_dataset_Plain_Monash_4.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_Plain_Monash_5",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset/monash_electricity_hourly_dataset_Plain_Monash_5.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_Plain_Monash_6",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset/monash_electricity_hourly_dataset_Plain_Monash_6.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_Plain_Monash_7",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset/monash_electricity_hourly_dataset_Plain_Monash_7.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_Plain_Monash_8",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset/monash_electricity_hourly_dataset_Plain_Monash_8.npy"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the time-series data, describe different stages of the trend in one sentence. Please be concise - do not talk about fluctuations or cyclical patterns, and do not talk about exact values or whether it is positive or negative.\","
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ],
+    "id": "monash_electricity_hourly_dataset_Plain_Monash_9",
+    "dfs": [
+      "/home/jupyter/generated_data/descriptions_v1/test/holdout/monash_electricity_hourly_dataset/monash_electricity_hourly_dataset_Plain_Monash_9.npy"
+    ]
+  }
+]
